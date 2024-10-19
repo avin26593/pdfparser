@@ -1,0 +1,574 @@
+		Consolidated Account Statement	
+Summary	Holdings	Transactions   Your Account   About NSDL	
+Dear Investor,			
+Greetings from NSDL.			
+We are pleased to bring you NSDL Consolidated Account Statement (NSDL CAS). NSDL CAS is a single statement of all your			
+investments in the securities market. All your investments in equity shares, preference shares, mutual funds, bonds, debentures,			
+securitised instruments, government securities (other than held in SGL), commercial paper and certificates of deposit are included in			
+this Consolidated Account Statement. It includes all investments held in single or joint names with you as the sole/first holder.			
+NSDL CAS is part of the overall vision to enable all financial assets to be held electronically in a single demat account, which was			
+articulated by the Hon'ble Finance Minister in his budget speech of July 2014. As a step in this direction, SEBI has introduced this			
+Consolidated Account Statement for all securities assets by consolidating demat accounts and mutual fund folios.			
+As a part of our endeavor to enhance investor experience, we have introduced the feature of viewing details of all your insurance			
+policies held by you in your e-Insurance Account (eIA) with NSDL National Insurance Repository (NIR). In case you do not have eIA,			
+please visit https://www.nir.ndml.in/ to open eIA online. We are now introducing additional feature of  Portfolio Value Trend whereby			
+you will be able to view historical monthly movement of your consolidated portfolio value over time. We have also introduced two new			
+fields viz., "Date of Birth" and "Aadhaar Number" under the section of "Know more about your accounts" in respect of your NSDL			
+demat account(s). Additionally, a new feature of "Annualised Return" has been incorporated in NSDL CAS to provide information			
+pertaining to return on your investments in respect of mutual funds schemes held in MF Folios.			
+I am sure that you will find NSDL CAS very useful. It offers you unparalleled convenience in keeping track of your investment			
+portfolio. You can easily monitor the investments you hold, their value and portfolio composition. It will help you in developing strategy			
+to manage your investments better. Further, we intend to bring you more features and services in the future. Please visit			
+https://nsdlcas.nsdl.com for more information. We welcome your feedback and suggestions on this initiative of NSDL.			
+Yours Sincerely,			
+G. V. Nageswara Rao			
+Managing Director & CEO			
+---- End of Table ----Page 2		Consolidated Account Statement	
+Summary   Holdings	Transactions	Your Account   About NSDL	
+CAS ID: 101156976			
+ANAND PILLAI			
+HOUSE NO-145			
+FIRST FLOOR			
+SECTOR-15 A			
+NOIDA			
+PINCODE: 201301			
+			
+			
+Statement for the period from  01-Sep-2019 to 30-Sep-2019			
+	YOUR CONSOLIDATED		
+	PORTFOLIO VALUE	` 1,04,81,378.79 Summary	
+			
+			
+Your Demat Account and Mutual Fund Folios			
+In the Single Name of			
+ANAND PILLAI (PAN:AAUPP0915B)			
+		No. of	
+Account Type Account Details		Value in `	
+		ISINs / Schemes	
+ALANKIT ASSIGNMENTS LTD.NSDL Demat Account 0.00DP ID:IN300118 Client ID:11038579		0	
+Mutual Fund Folios 20 Folios		22 1,04,73,615.79	
+		Total 1,04,73,615.79	
+In the joint Names of			
+ANAND  PILLAI (PAN:AAUPP0915B)			
+BELLA  PILLAI (PAN:AKBPP9419K)			
+		No. of	
+Account Type Account Details		Value in `	
+		ISINs / Schemes	
+ICICI BANK LIMITEDCDSL Demat Account 7,763.00DP ID:16014301 Client ID:01538823		1	
+		Total 7,763.00	
+		Grand Total 1,04,81,378.79	
+			
+			
+Your e-Insurance Account (eIA) :  NONE WITH NSDL NATIONAL INSURANCE REPOSITORY(NIR)			
+eIA in the name of			
+		No. of Insurance	
+Type of Policy No. of Policies		Total Sum Assured `	
+		Companies	
+Note:			
+• Visit https://nironline.ndml.in/NIR/onlineEiaApplicationFormEkyc.html to open a free e-Insurance account online with NSDL National Insurance Repository (NIR) and hold all			
+your physical Insurance Policies in electronic form in a single account.			
+• Insurance Policies are regulated by Insurance Regulatory and Development Authority of India (IRDAI).			
+			
+			
+		Portfolio Value Trend	
+Monthly movement of your Consolidated Portfolio Value since September 2018 is given below.It reflects the monthly change in your total wealth invested in the assets			
+which are consolidated in NSDL CAS. Increase in your portfolio value may be due to appreciation of your investments and also fresh investments. Similarly, decrease in			
+portfolio value may be due to depreciation in investments or sale of investments.			
+---- End of Table ----Page 3			Consolidated Account Statement	
+Summary   Holdings		Transactions	Your Account   About NSDL	
+Consolidated Portfolio Change Change				
+Month				
+Value (`) (`)	(%)			
+SEP 2018 1,07,12,131.19 NA	NA			
+OCT 2018 97,28,431.07 -983700.12	-9.18			
+NOV 2018 98,61,409.10 +132978.03	+1.37			
+DEC 2018 69,15,564.66 -2945844.44 -29.87				
+JAN 2019 89,89,295.58 +2073730.92 +29.99				
+FEB 2019 90,19,198.73 +29903.15	+0.33			
+MAR 2019 92,63,315.73 +244117.00	+2.71			
+APR 2019 93,10,905.55 +47589.82	+0.51			
+MAY 2019 1,14,45,268.58 +2134363.03 +22.92				
+JUN 2019 1,13,98,546.34 -46722.24	-0.41			
+JUL 2019 1,12,09,798.71 -188747.63	-1.66			
+AUG 2019 1,11,94,005.96 -15792.75	-0.14			
+SEP 2019 1,04,81,378.79 -712627.17	-6.37			
+		ANAND PILLAI	` 1,04,73,615.79 Holdings	
+			as on 30-Sep-2019	
+Summary of value of holdings of ANAND PILLAI				
+		PORTFOLIO COMPOSITION		
+		ASSET CLASS	Value in ` %	
+		Equities (E)	0.00 0.00%	
+		Preference Shares (P)	0.00 0.00%	
+		Mutual Funds (M)	0.00 0.00%	
+		Corporate Bonds (C)	0.00 0.00%	
+		Money Market Instruments (I)	0.00 0.00%	
+		Securitised Instruments (S)	0.00 0.00%	
+		Government Securities (G)	0.00 0.00%	
+		Postal Saving Scheme (O)	0.00 0.00%	
+		Mutual Fund Folios (F)	1,04,73,615.79 100.00%	
+		TOTAL	1,04,73,615.79	
+				
+Mutual Fund Folios (F)				
+ISIN ISIN Description Folio No.	No. of	Average Total Cost	Current NAV Current Value Unrealised Annualised	
+UCC	Units	Cost Per Units `	per unit  in ` Profit/(Loss) Return(%)	
+		`	in ` `	
+INF846K01131 Axis Long Term 91028268442	7,653.311	32.6656 2,50,000.00	46.8797 3,58,784.92 1,08,784.92 14.64	
+MFAXIS0006 Equity Fund -				
+Growth				
+INF846K01131 Axis Long Term 91029847893	4,186.646	35.8282 1,50,000.00	46.8797 1,96,268.71 46,268.71 11.81	
+MFAXIS0006 Equity Fund -				
+Growth				
+INF846K01131 Axis Long Term 91031107156	2,712.026	36.8728 1,00,000.00	46.8797 1,27,138.97 27,138.97	
+MFAXIS0006 Equity Fund -				
+Growth				
+INF846K01131 Axis Long Term 91039630141	5,728.637	43.6404 2,50,000.00	46.8797 2,68,556.78 18,556.78 5.20	
+MFAXIS0006 Equity Fund -				
+Growth				
+INF740K01185 DSP Tax Saver 5777942	3,118.244	48.1040 1,50,000.00	49.2890 1,53,695.13 3,695.13 6.06	
+MFDSPM0026 Fund - Regular Plan				
+- Growth				
+INF179K01707 HDFC Floating 14688180	37,867.046	31.0200 11,74,635.77	33.8726 12,82,655.30 1,08,019.53 8.49	
+MFHDFC0017 Rate Debt Fund -				
+Regular Plan -				
+Growth				
+INF109K01BH2 ICICI Prudential 11697692	14,845.606	33.6800 5,00,000.00	36.4700 5,41,419.25 41,419.25 5.79	
+MFPRUI0072 Balanced				
+Advantage Fund -				
+Growth				
+INF109K01BH2 ICICI Prudential 13490118	16,896.649	35.5100 6,00,000.00	36.4700 6,16,220.79 16,220.79 6.66	
+MFPRUI0072 Balanced				
+Advantage Fund -				
+Growth				
+---- End of Table ----Page 4			Consolidated Account Statement	
+Summary   Holdings		Transactions	Your Account   About NSDL	
+ISIN ISIN Description Folio No.	No. of	Average Total Cost	Current NAV Current Value Unrealised Annualised	
+UCC	Units	Cost `	per unit  in ` Profit/(Loss) Return(%)	
+		Per Units	in ` `	
+		`		
+INF109K01BB5 ICICI Prudential 12914355	12,750.455	54.9000 7,00,000.00	54.8000 6,98,724.93 -1,275.07 -0.25	
+MFPRUI0059 Exports and				
+Services - Growth				
+INF109KC1RE6 ICICI Prudential 12933760	70,000.000	10.0000 7,00,000.00	9.7700 6,83,900.00 -16,100.00 -3.24	
+NOT AVAILABLE India Opportunities				
+Fund Growth				
+INF205KA1023 Invesco India Equity 3101246624	59,222.410	10.1313 6,00,000.00	10.3270 6,11,589.83 11,589.83 4.73	
+NOT AVAILABLE Savings Fund -				
+Regular Plan				
+Growth				
+INF677K01452 L&T Low Duration 4485388	18,696.681	18.7199 3,50,000.00	20.2103 3,77,865.53 27,865.53 5.57	
+NOT AVAILABLE Fund - Growth				
+INF677K01452 L&T Low Duration 4768042	36,867.913	18.9867 7,00,000.00	20.2103 7,45,111.58 45,111.58 5.44	
+NOT AVAILABLE Fund - Growth				
+INF917K01254 L&T Midcap Fund - 5277718	4,969.039	130.8100 6,50,000.00	127.3200 6,32,658.05 -17,341.95 -6.33	
+100047977 Growth				
+INF917K01AS7 L&T Ultra Short 4237124	28,388.223	28.1807 8,00,000.00	31.6893 8,99,602.92 99,602.92 7.79	
+100047951 Term Fund -				
+Regular  Growth				
+INF917K01AS7 L&T Ultra Short 4305879	5,304.758	28.2765 1,50,000.00	31.6893 1,68,104.07 18,104.07 7.77	
+100047951 Term Fund -				
+Regular  Growth				
+INF917K01AS7 L&T Ultra Short 4844366	17,164.730	29.1295 5,00,000.00	31.6893 5,43,938.28 43,938.28 8.07	
+100047951 Term Fund -				
+Regular  Growth				
+INF277K010S4 Tata Balanced 4755231	70,000.000	10.0000 7,00,000.00	10.5017 7,35,119.00 35,119.00 7.57	
+NOT AVAILABLE Advantage Fund -				
+Regular Plan -				
+Growth				
+INF789F1AMV8 UTI Credit Risk 599309020271	49,459.970	0.0000 0.00	0.2428 12,008.88 12,008.88	
+NOT AVAILABLE Fund (Segregated -				
+13092019) -				
+Regular Growth				
+Plan				
+INF789F1AMV8 UTI Credit Risk 599310073926	3,299.306	0.0000 0.00	0.2428 801.07 801.07	
+NOT AVAILABLE Fund (Segregated -				
+13092019) -				
+Regular Growth				
+Plan				
+INF789F01QZ1 UTI Credit Risk 599309020271	49,459.970	15.1638 7,50,000.00	15.5319 7,68,207.31 18,207.31 1.07	
+NOT AVAILABLE Fund - Regular				
+Growth Plan				
+INF789F01QZ1 UTI Credit Risk 599310073926	3,299.306	15.1547 50,000.00	15.5319 51,244.49 1,244.49 1.10	
+NOT AVAILABLE Fund - Regular				
+Growth Plan				
+			Total 1,04,73,615.79	
+Notes:				
+1. Annualised Return (%) indicates the return on investment in the mutual fund scheme since April 1, 2015 or the date of your investment, whichever is later. It is				
+computed using XIRR (Extended Internal Rate of Return) method and takes into account NAV appreciation as well as dividend.				
+2. Annualised Return (%) has not been computed where details provided to NSDL by mutual funds are not adequate, where the investment has been held for less				
+than a month or where the holdings have become zero.				
+				
+Total Expense Ratio (**) & Commission Paid				
+ISIN ISIN Description Total Expense			For Regular Plan	
+Ratio for Direct				
+	Plan (%age)	ARN Distributor	Commission Total Expense	
+		Code  Name	Paid to Ratio for Regular	
+			Distributor in ` Plan (%age)	
+INF917K01AS7 L&T Ultra Short Term Fund -	0.00	ARN-0845 ICICI Securities Limited	534.90 0.52	
+Regular  Growth				
+INF789F1AMV8 UTI Credit Risk Fund		ARN-0845 ICICI Securities Limited	0.00	
+(Segregated - 13092019) -				
+Regular Growth Plan				
+INF179K01707 HDFC Floating Rate Debt Fund -	0.00	ARN-0845 ICICI Securities Limited	536.06 0.38	
+Regular Plan - Growth				
+INF917K01AS7 L&T Ultra Short Term Fund -	0.00	ARN-0845 ICICI Securities Limited	884.65 0.52	
+Regular  Growth				
+INF740K01185 DSP Tax Saver Fund - Regular	0.00	ARN-0020 Icici Bank Limited	522.20 1.91	
+Plan - Growth				
+INF677K01452 L&T Low Duration Fund -	0.00	ARN-0845 ICICI Securities Limited	1,861.69 0.95	
+Growth				
+INF917K01254 L&T Midcap Fund - Growth	0.00	ARN-0020 Icici Bank Limited	2,418.67 2.00	
+INF677K01452 L&T Low Duration Fund -	0.00	ARN-0845 ICICI Securities Limited	944.11 0.95	
+Growth				
+---- End of Table ----Page 5		Consolidated Account Statement	
+Summary   Holdings	Transactions	Your Account   About NSDL	
+ISIN ISIN Description Total Expense		Total Expense Ratio For Regular Plan	
+Ratio for Direct			
+Plan (%age)	ARN	Distributor Commission Total Expense	
+	Code	Name Paid to Ratio for Regular	
+		Distributor in ` Plan (%age)	
+INF205KA1023 Invesco India Equity Savings	ARN-0020	Icici Bank Limited 3,518.90 2.30	
+Fund - Regular Plan Growth			
+INF846K01131 Axis Long Term Equity Fund -	ARN-0845	ICICI Securities Limited 568.76 1.78	
+Growth			
+INF109KC1RE6 ICICI Prudential India 0.00	ARN-0020	Icici Bank Limited 5,891.32 2.27	
+Opportunities Fund Growth			
+INF917K01AS7 L&T Ultra Short Term Fund - 0.00	ARN-0845	ICICI Securities Limited 165.31 0.52	
+Regular  Growth			
+INF109K01BB5 ICICI Prudential Exports and 0.00	ARN-0020	Icici Bank Limited 6,106.86 2.48	
+Services - Growth			
+INF846K01131 Axis Long Term Equity Fund -	ARN-0845	ICICI Securities Limited 1,605.03 1.78	
+Growth			
+INF846K01131 Axis Long Term Equity Fund -	ARN-0845	ICICI Securities Limited 1,585.11 1.78	
+Growth			
+INF846K01131 Axis Long Term Equity Fund -	ARN-0845	ICICI Securities Limited 878.01 1.78	
+Growth			
+INF789F01QZ1 UTI Credit Risk Fund - Regular	ARN-0845	ICICI Securities Limited 4,095.58 1.60	
+Growth Plan			
+INF277K010S4 Tata Balanced Advantage Fund 0.00	ARN-0020	Icici Bank Limited 6,938.66 2.31	
+- Regular Plan - Growth			
+INF109K01BH2 ICICI Prudential Balanced 0.00	ARN-0845	ICICI Securities Limited 1,989.25 1.69	
+Advantage Fund - Growth			
+INF109K01BH2 ICICI Prudential Balanced 0.00	ARN-0020	Icici Bank Limited 2,387.74 1.69	
+Advantage Fund - Growth			
+INF789F01QZ1 UTI Credit Risk Fund - Regular	ARN-0845	ICICI Securities Limited 273.20 1.60	
+Growth Plan			
+(**) Note: Break up of Total Expense Ratio (TER) viz., Investment and Advisory expenses, Commission paid to distributors and Other expenses is mentioned under Load structure and			
+Customer Care Details section.			
+ANAND  PILLAI			
+BELLA  PILLAI		` 7,763.00 Holdings	
+		as on 30-Sep-2019	
+Summary of value of holdings of ANAND  PILLAI,			
+BELLA  PILLAI			
+	PORTFOLIO COMPOSITION		
+	ASSET CLASS	Value in ` %	
+	Equities (E)	7,763.00 100.00%	
+	Preference Shares (P)	0.00 0.00%	
+	Mutual Funds (M)	0.00 0.00%	
+	Corporate Bonds (C)	0.00 0.00%	
+	Money Market Instruments (I)	0.00 0.00%	
+	Securitised Instruments (S)	0.00 0.00%	
+	Government Securities (G)	0.00 0.00%	
+	Postal Saving Scheme (O)	0.00 0.00%	
+	Mutual Fund Folios (F)	0.00 0.00%	
+	TOTAL	7,763.00	
+			
+			
+CDSL Demat Account ACCOUNT HOLDERS			
+ICICI BANK LIMITED ANAND  PILLAI (PAN:AAUPP0915B)			
+DP ID: 16014301 Client ID: 01538823 BELLA  PILLAI (PAN:AKBPP9419K)			
+			
+Equities (E)			
+ISIN SECURITY Current Bal.	Safekeep Bal.	Pledged Bal. Market Price Value	
+Free Bal.	Locked In Bal.	Earmarked Bal.  / Face Value  in `	
+Lent Bal.	Pledge Setup Bal.	Pledgee Bal.  in `	
+INE763G01038 ICICI SECURITIES 28.000	0.000	0.000 277.25 7,763.00	
+LIMITED#NEW EQUITY 28.000	0.000	0.000	
+SHARES FV RS. 5/- AFTER 0.000	0.000	0.000	
+CONSOLIDATION			
+		Sub Total 7,763.00	
+		Total  7,763.00	
+---- End of Table ----Page 6			Consolidated Account Statement	
+Summary	Holdings	Transactions	Your Account   About NSDL	
+			Transactions	
+			for the period from 01-Sep-2019 to 30-Sep-2019	
+				
+DEMAT ACCOUNT				
+			Opening Closing	
+Date Order No		Description	Debit Credit	
+			Balance Balance	
+NO TRANSACTION RECORDED FOR THE GIVEN PERIOD				
+				
+MUTUAL FUND FOLIOS (F)				
+				
+				
+	Mutual Funds Transaction Statement for the Period from 01-Sep-2019 to 30-Sep-2019			
+				
+Date Transaction Details		Amount	NAV Price Units	
+		in `	in `  in `	
+ISIN: INF179K01707 - HDFC Mutual Fund - Scheme Name: ISWG - HDFC Floating Rate Debt Fund - Regular Plan -			Folio No -	
+Growth			14688180	
+Opening Balance			64,474.533	
+18-SEP-2019 Redemption  - DC - ICICI Web Trade		3,00,000.00	33.8196 33.8196 8,870.596	
+- via Distributor				
+19-SEP-2019 Redemption  - DC - ICICI Web Trade		6,00,000.00	33.8278 33.8278 17,736.891	
+- via Distributor				
+Closing Balance			37,867.046	
+				
+ISIN: INF789F1AMV8 - UTI Mutual Fund - Scheme Name: COSG - UTI Credit Risk Fund (Segregated - 13092019) -			Folio No -	
+Regular Growth Plan			599309020271	
+Opening Balance			0.000	
+13-SEP-2019 Bonus		0.00	0.0000 0.0000 49,459.970	
+Closing Balance			49,459.970	
+				
+ISIN: INF789F1AMV8 - UTI Mutual Fund - Scheme Name: COSG - UTI Credit Risk Fund (Segregated - 13092019) -			Folio No -	
+Regular Growth Plan			599310073926	
+Opening Balance			0.000	
+13-SEP-2019 Bonus		0.00	0.0000 0.0000 3,299.306	
+Closing Balance			3,299.306	
+				
+				
+		***End of Statement***		
+				
+				
+			Know more about your accounts	
+NSDL DEMAT ACCOUNT				
+Sole Holder	DATE OF BIRTH		REGISTERED MOBILE	
+		REGISTERED EMAIL	AADHAAR NUMBER	
+ANAND PILLAI	(DD/MM/YYYY)		009810770086	
+	12/02/1959	Not Registered	Not Registered	
+		Click here to Register		
+DEMAT ACCOUNT WITH	CLIENT ID	NOMINEE	LINKED BANK ACCOUNT BANK ACCOUNT NUMBER	
+ALANKIT ASSIGNMENTS	11038579	Not Registered	ICICI BANK LTD (IFSC: 000201527533	
+LTD.			ICIC0000002)	
+(IN300118)				
+				
+				
+				
+CDSL DEMAT ACCOUNT				
+JOINT ACCOUNT HOLDERS	DEMAT ACCOUNT WITH		REGISTERED EMAIL	
+HOLDER 1 - ANAND  PILLAI	ICICI BANK LIMITED		bella.pillai@gmail.com	
+HOLDER 2 - BELLA  PILLAI	(16014301)			
+NOMINEE	CLIENT ID		REGISTERED MOBILE	
+Not Registered	01538823		7738151734	
+---- End of Table ----Page 7			Consolidated Account Statement	
+Summary   Holdings		Transactions	Your Account   About NSDL	
+Folio No. HOLDER DETAILS	KYC	PAN	MOBILE NO EMAIL ID RTA	
+AMC NAME HOLDER(S) NAME(S)	Status			
+NOMINEE				
+4485388 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please provide CAMS	
+L&T Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+599309020271 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please Provide KARVY	
+UTI Mutual Fund ANANDPILLAI				
+NOMINEE – Registered				
+3101246624 Sole Holder	OK	AAUPP0915B	XXXXXX8622227 GMAIL@ANANDPILLAI.IN KARVY	
+Invesco Mutual Fund ANAND PILLAI				
+NOMINEE – Please Nominate				
+599310073926 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please Provide KARVY	
+UTI Mutual Fund ANANDPILLAI				
+NOMINEE – Registered				
+4844366 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please provide CAMS	
+L&T Mutual Fund Anand Pillai				
+NOMINEE – Registered				
+11697692 Sole Holder	OK	AAUPP0915B	XXXXXX2227 anand.k.pillai@ril.com CAMS	
+ICICI Prudential Anand Pillai				
+Mutual Fund NOMINEE – Please Nominate				
+4305879 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please provide CAMS	
+L&T Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+12914355 Sole Holder	OK	AAUPP0915B	XXXXXX2227 gmail@anandpillai.in CAMS	
+ICICI Prudential Anand Pillai				
+Mutual Fund NOMINEE – Please Nominate				
+4755231 Sole Holder	OK	AAUPP0915B	XXXXXX2227 gmail@anandpillai.in CAMS	
+Tata Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+5777942 Sole Holder	OK	AAUPP0915B	XXXXXX2227 gmail@anandpillai.in CAMS	
+DSP Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+14688180 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please provide CAMS	
+HDFC Mutual Fund Anand Pillai				
+NOMINEE – Registered				
+91029847893 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please Provide KARVY	
+Axis Mutual Fund ANANDPILLAI				
+NOMINEE – Please Nominate				
+12933760 Sole Holder	OK	AAUPP0915B	XXXXXX2227 gmail@anandpillai.in CAMS	
+ICICI Prudential Anand Pillai				
+Mutual Fund NOMINEE – Please Nominate				
+4768042 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please provide CAMS	
+L&T Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+91031107156 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please Provide KARVY	
+Axis Mutual Fund ANANDPILLAI				
+NOMINEE – Registered				
+5277718 Sole Holder	OK	AAUPP0915B	XXXXXX2227 gmail@anandpillai.in CAMS	
+L&T Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+91028268442 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please Provide KARVY	
+Axis Mutual Fund ANANDPILLAI				
+NOMINEE – Registered				
+91039630141 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please Provide KARVY	
+Axis Mutual Fund ANANDPILLAI				
+NOMINEE – Please Nominate				
+4237124 Sole Holder	OK	AAUPP0915B	XXXXXX2227 Please provide CAMS	
+L&T Mutual Fund Anand Pillai				
+NOMINEE – Please Nominate				
+13490118 Sole Holder	OK	AAUPP0915B	XXXXXX2227 gmail@anandpillai.in CAMS	
+ICICI Prudential Anand Pillai				
+Mutual Fund NOMINEE – Please Nominate				
+Load structure, Break up of TER and Customer Care Details				
+MF Scheme : UTI Credit Risk Fund (Segregated - 13092019) - Regular Growth Plan				
+**Investment and Advisory expense-NIL%; Commission paid to distributor-NIL%; Other Expenses-NIL%**				
+MF Scheme : UTI Credit Risk Fund - Regular Growth Plan				
+For subscriptions received w.e.f. OCT 3rd , 2016, applicable Exit load: Redemption / Switch out within 12 months from the date of allotment ¿ (i) NIL for upto 10% of the				
+allotted Units (ii) 1.00 % for beyond 10% of the allotted Units.Redemption / Switch out after 12 months from the date of allotment ¿ NIL **Investment and Advisory				
+expense-0.45%; Commission paid to distributor-0.90%; Other Expenses-0.25%**				
+MF Scheme : UTI Credit Risk Fund (Segregated - 13092019) - Regular Growth Plan				
+**Investment and Advisory expense-NIL%; Commission paid to distributor-NIL%; Other Expenses-NIL%**				
+MF Scheme : UTI Credit Risk Fund - Regular Growth Plan				
+For subscriptions received w.e.f. OCT 3rd , 2016, applicable Exit load: Redemption / Switch out within 12 months from the date of allotment ¿ (i) NIL for upto 10% of the				
+allotted Units (ii) 1.00 % for beyond 10% of the allotted Units.Redemption / Switch out after 12 months from the date of allotment ¿ NIL **Investment and Advisory				
+expense-0.45%; Commission paid to distributor-0.90%; Other Expenses-0.25%**				
+---- End of Table ----Page 8		Consolidated Account Statement	
+Summary   Holdings	Transactions	Your Account   About NSDL	
+MF Scheme : Invesco India Equity Savings Fund - Regular Plan Growth			
+In respect of each purchase/switch-in of units, an exit load of 0.25% is payable if units are redeemed/ switched-out on or before 1 month from the date of allotment.In			
+respect of each purchase/switch-in of units, no exit load is payable if units are redeemed/switched-out after 1 month from the date of allotment. **Investment and			
+Advisory expense-0.42%; Commission paid to distributor-1.85%; Other Expenses-0.03%**			
+MF Scheme : Axis Long Term Equity Fund - Growth			
+Entry Load - NIL, Exit Load - NIL.  Investment in Axis Long Term Equity Fund is eligible for availing tax benefit under section 80C of Income Tax ACT 1961 read with			
+circular no. - 9/2005 dated 30 Nov`05 issued by Ministry Of Finance, subject to the limitsconditions specified under section 80C.		**Investment and Advisory expense-	
+0.70%; Commission paid to distributor-0.78%; Other Expenses-0.30%**			
+MF Scheme : DSP Tax Saver Fund - Regular Plan - Growth			
+Entry & Exit Load - Nil. Units allotted under DSP Tax Saver Fund (Open ended ELSS) are eligible for tax deduction as per conditions laid u/s 80C of the Income Tax Act,			
+1961 **Investment and Advisory expense-0.65%;Commission paid to distributor-0.99%;Other Expenses-0.27%**			
+MF Scheme : L&T Ultra Short Term Fund - Regular  Growth			
+Current Load Structure : Entry Load - NIL ; Exit Load - NIL w.e.f 02-Mar-2010.  With effect from 15th November, 2016 L&T Ultra Short Term Fund - Regular -			
+Cumulative - Original has merged with L&T Ultra Short Term Fund - Growth ¿in case the last transaction was through Distributor. **Investment and Advisory expense-			
+0.13%;Commission paid to distributor-0.30%;Other Expenses-0.09%**			
+MF Scheme : L&T Low Duration Fund - Growth			
+""Entry Load: Nil;Exit Load: W.E.F. 12- Dec- 2018.If the units redeemed or switched-out are upto 10% of the units (the limit) purchased or switched-in within 3 months			
+from the date of allotment : NIL.If units redeemed or switched out are over and above the limit within 3 months from the date of allotment: 1.00%.If units are redeemed			
+or switched out on or after  3 months from the date of allotment : NIL. A switch-out or a withdrawal under SWP or a transfer under STP (except a switch-out or a transfer			
+under STP into any of the Equity Schemes or Fund of Funds schemes or FFBF) may also attract an Exit Load/CDSC like any Redemption. With effect from May 14,			
+2018 the scheme name changed from L&T Short Term Income Fund - Growth to L&T Low Duration Fund - Growth."" **Investment and Advisory expense-			
+0.31%;Commission paid to distributor-0.50%;Other Expenses-0.14%**			
+MF Scheme : L&T Ultra Short Term Fund - Regular  Growth			
+Current Load Structure : Entry Load - NIL ; Exit Load - NIL w.e.f 02-Mar-2010.  With effect from 15th November, 2016 L&T Ultra Short Term Fund - Regular -			
+Cumulative - Original has merged with L&T Ultra Short Term Fund - Growth ¿in case the last transaction was through Distributor. **Investment and Advisory expense-			
+0.13%;Commission paid to distributor-0.30%;Other Expenses-0.09%**			
+MF Scheme : L&T Midcap Fund - Growth			
+Entry Load : Nil; Exit Load : W.e.f. 01-Apr-2019, Nil if the units redeemed or switched-out within 1 year from the date of allotment are up-to 10% of the units purchased			
+or switched-in (the limit); Exit Load :1% if the units redeemed or switched out over and above the limit within 1 year from the date of allotment; Exit Load : Nil if the units			
+are redeemed or switched out on or after 1 year from the date of allotment. **Investment and Advisory expense-0.58%;Commission paid to distributor-1.01%;Other			
+Expenses-0.41%**			
+MF Scheme : HDFC Floating Rate Debt Fund - Regular Plan - Growth			
+*Merger from erstwhile 'HDFC Floating Rate Debt Fund Retail Option into HDFC Floating Rate Debt Fund (Erstwhile Wholesale Option)  w.e.f, May 11, 2019. HDFC			
+Floating Rate Debt Fund, An Open ended debt scheme predominantly investing in floating rate instruments (Including fixed rate instruments converted to floating rate			
+exposures using swaps/derivatives). Current Load Structure : Entry Load: Not Applicable.  Exit Load : Nil. For further details visit www.hdfcfund.com (under Investor			
+Corner) or contact any of our Investor Service Centre.  GST Identification Number : 27AAATH1809A1Z9 **Investment and Advisory expense-0.17%;Commission paid to			
+distributor-0.00%;Other Expenses-0.21%**			
+MF Scheme : ICICI Prudential Balanced Advantage Fund - Growth			
+Current : Entry Load - Nil. Exit Load w.e.f 01-Jan-2019 [including SIP,STP,SWP&Micro(SIP) wherever available] - If redeemed or switched out upto 10% of the units (the			
+limit) within 1 Year - Nil, excess of the limit within 1 Year - 1%, after 1 year - Nil. For lumpsum investment/switch in, the applicable load will be based on the load			
+structure as on the date of investment/applicable NAV date. For SIP/STP transactions, load for each transaction is based on the applicable load structure as on the			
+registration date. For details, please refer to SID and Addenda available on www.icicipruamc.com **Investment and Advisory expense-0.96%;Commission paid to			
+distributor-0.47%;Other Expenses-0.26%**			
+MF Scheme : ICICI Prudential Exports and Services - Growth			
+Current : Entry Load - Nil. Exit Load w.e.f 01-Jan-2019 [including SIP,STP,SWP&Micro(SIP) wherever available] - If redeemed or switched out within 15 days - 1%, after			
+15 days - Nil. For lumpsum investment/switch in, the applicable load will be based on the load structure as on the date of investment/applicable NAV date. For SIP/STP			
+transactions, load for each transaction is based on the applicable load structure as on the registration date. For details, please refer to SID and Addenda available on			
+www.icicipruamc.com.  Scheme Name of ICICI Prudential Exports and Other Services has been changed to ICICI Prudential Exports and Services with effect from May			
+28, 2018. **Investment and Advisory expense-1.27%;Commission paid to distributor-0.90%;Other Expenses-0.31%**			
+MF Scheme : ICICI Prudential India Opportunities Fund Growth			
+Current : Entry Load - Nil. Exit Load [including SIP,STP,SWP&Micro(SIP) wherever available] - If redeemed or switched out upto 12 months - 1 %, more than 12 months			
+- Nil. For lumpsum investment/switch in, the applicable load will be based on the load structure as on the date of investment/applicable NAV date. For SIP/STP			
+transactions, load for each transaction is based on the applicable load structure as on the registration date. For details, please refer to SID and Addenda available on			
+www.icicipruamc.com. **Investment and Advisory expense-0.36%;Commission paid to distributor-1.75%;Other Expenses-0.16%**			
+MF Scheme : ICICI Prudential Balanced Advantage Fund - Growth			
+Current : Entry Load - Nil. Exit Load w.e.f 01-Jan-2019 [including SIP,STP,SWP&Micro(SIP) wherever available] - If redeemed or switched out upto 10% of the units (the			
+limit) within 1 Year - Nil, excess of the limit within 1 Year - 1%, after 1 year - Nil. For lumpsum investment/switch in, the applicable load will be based on the load			
+structure as on the date of investment/applicable NAV date. For SIP/STP transactions, load for each transaction is based on the applicable load structure as on the			
+registration date. For details, please refer to SID and Addenda available on www.icicipruamc.com **Investment and Advisory expense-0.96%;Commission paid to			
+distributor-0.47%;Other Expenses-0.26%**			
+MF Scheme : Tata Balanced Advantage Fund - Regular Plan - Growth			
+Current Load Structure : Entry Load: N.A. Exit Load: 1% of the applicable NAV, if redeemed on or before expiry of 365 days from the date of allotment. **Investment and			
+Advisory expense-0.30%;Commission paid to distributor-1.79%;Other Expenses-0.22%**			
+Notes			
+---- End of Table ----Page 9		Consolidated Account Statement	
+Summary   Holdings	Transactions	Your Account   About NSDL	
+(1) You will be receiving NSDL CAS on a monthly basis incase you have done any transaction(s) in your demat account(s) or in any of your Mutual Fund Folio(s). However,			
+if you have not done any transaction in any of your demat account(s) and Mutual Fund Folio(s) in last six months during April to September / October to March (i.e. dormant			
+demat accounts), then you will be receiving NSDL CAS with holding details on half yearly basis viz., NSDL CAS will be sent with holdings details as on March and			
+September end in the next month viz., April and October respectively.As directed by SEBI, since NSDL is providing the NSDL CAS, you may not receive statement from			
+your DP separately.			
+(2) The valuation of transaction/holding has been computed on the basis of the last closing price or NAV of the securities or units of mutual funds, as reported by Stock			
+Exchanges/AMFI/Mutual Fund/RTA. Where such price or NAVis not available, the last traded/available price or NAV has been taken into account and for unlisted securities,			
+face value has been considered. However, for securities listed at stock exchanges other than BSE and NSE (including de-listed securities), the last traded/available price			
+has been considered. Further, stock symbol is mentioned in NSDL CAS only in respect of  securities that are listed at NSE / BSE.			
+(3) All unit allotments in respect of Mutual Fund folios are subject to realization of payment by Mutual Fund/RTA. Unit holders are requested to note that, in case of any			
+discrepancies in the folio(s), KYC Status, data, holdings, units etc. in NSDL CAS due to errors, if any, in consolidation or whatsoever reason, the records as per the			
+respective Mutual Fund/RTA will be treated as final and will prevail. In such case, unit holders should revert within 10 days to the respective RTA or the Mutual Fund as			
+applicable.			
+(4) Any discrepancy in your demat statement should be brought to the notice of your DP / Depository within one month.			
+(5) For updation of your personal details like Nominee, Email ID, Mobile No.,Aadhaar No. & Date of Birth,etc.in your demat accounts or MF Folios,you may approach the			
+concerned DP/Mutual Fund/RTA as applicable.However,first holder of demat account may update/modify the Email ID by clicking on the link viz., "Click here to Register"			
+provided under "Know more about your account" section in e-CAS provided they have subscribed for NSDL e-CAS.			
+(6) The eIA details mentioned in the CAS pertains to the eIA held with NSDL National Insurance Repository (NIR). NIR is regulated by Insurance Regulatory and			
+Development Authority of India (IRDAI).			
+(7) For updation of your personal details like Name, Address and Bank Details in your eIA, you may approach any Approved Person (AP) of NIR. The list of APs is available			
+at www.nir.ndml.in. Any other details pertaining to eIA can be updated by logging on to your eIA.			
+(8) Holdings and Transactions of Promoter/Promoter Group and Insiders reported by issuer as on 1st day of the September 2019 are considered for System Driven			
+Disclosures under SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 and SEBI (Prohibition of Insider Trading) Regulations, 2015.			
+(9) We are sure that NSDL CAS will enrich your experience of managing your portfolio effectively and benefit you in many other ways viz. better decision making, simplified			
+monitoring, rich analysis of portfolio etc. However, if you do not wish to receive the CAS, you may write to your DP or send your request at noCAS@nsdl.co.in from your			
+email ID registered in your demat account held with NSDL.			
+(10) If you wish to receive Consolidated Account Statement (CAS) from CDSL, you can indicate your preference by submitting a letter signed by the first holder to any DP			
+of NSDL where you have an account. Alternatively, you can also send email to NSDL-CASfeedback@nsdl.co.in from your email id registered with NSDL. Please quote your			
+Name and Permanent Account Number (PAN). If you choose CDSL, you will stop receiving CAS from NSDL and you will receive the same from CDSL.			
+(11) In respect of non-traded ISINs in CDSL holding, face value is exhibited in Market Price / Face Value column and the same has been considered for calculating the			
+valuations.			
+(12) You can contact us at Toll Free No. - 1800222990 or write to us at: NSDL, 4th Floor, A Wing, Trade World, Kamala Mills Compound, Senapati Bapat Marg, Lower			
+Parel, Mumbai - 400 013. Email ID for mentioning any grievances is NSDL-CAScomplaints@nsdl.co.in; You can send an email to us For any other valuable feedbacks at			
+NSDLCASfeedback@nsdl.co.in For more information, visit www.nsdl.co.in or https://nsdlcas.nsdl.com			
+Explanatory Notes1 :			
+1. Average Cost per Unit (Column 5) indicates the average NAV per unit at which you made the investment. Total Cost (Column 6) indicates your total investment amount			
+in the scheme. If you have made multiple investments or redemptions in the same scheme, these are calculated on First in First out principle, that is, any redemptions are			
+assumed to be out of your earliest investments.			
+2. Current NAV per Unit (Column 7) indicates the current NAV of the scheme as on [date]. Current Value (Column 8) indicates the current value of your investment as on			
+[date].			
+3. Unrealised Profit/(Loss) (Column 9) indicates the gains or losses on your investment as on [date]. Column 9 = Column 8 - Column 6.			
+Explanatory Notes2 :			
+1. Above table shows the dividend and redemption amounts, which have become due to you but have not been claimed by you. To claim these amounts, please contact			
+the respective mutual fund or its Registrar and Transfer Agent (RTA).			
+2. SEBI has directed that unclaimed redemption and dividend amounts should be deployed by Mutual Funds in Call Money Market or Money Market instruments, as may be			
+permitted by RBI from time to time. Investors claiming these amounts within three years from the due date shall be paid at the prevailing NAV. At the end of three years, the			
+amount can be transferred to a pool account and investors can claim the amount at the NAV prevailing at the end of the third year.			
+3. Average Total Expense Ratio indicates the average of annualised total expense ratio charged in the scheme, for regular plan and direct plan respectively, during April			
+2019 to September 2019, within the limits prescribed under SEBI (Mutual Funds) Regulations, 1996.			
+4. Commission paid to Distributors indicates the brokerage/commission paid by the mutual fund, during the period April 2019 to September 2019, to any broker/distributor			
+through whom you made the investment. It includes all direct monetary payments and other payments made in the form of gifts/rewards, trips, event sponsorships etc by			
+AMCs/MFs to distributors during the half-year period. It indicates gross commission received by the distributor against the respective investment and does not exclude			
+costs incurred by distributors such as service tax (wherever applicable, as per existing rates), operating costs, etc.			
+		About NSDL	
+---- End of Table ----Page 10		Consolidated Account Statement	
+Summary   Holdings	Transactions	Your Account   About NSDL	
+NSDL, the first and largest depository in India, established in August 1996 and promoted by institutions of national stature responsible for economic development of the			
+country has since established a national infrastructure of international standards that handles most of the securities held and settled in dematerialized form in the Indian			
+capital market.			
+NSDL currently holds more than 1.90 crore demat accounts through its Depository Participants and value of assets held across these demat accounts is more than 184			
+lakh crore. The assets held under the custody of NSDL are higher than the total bank deposits held with all the banks in India.			
+NSDL works to support the investors and brokers in the capital market of the country. NSDL aims at ensuring the safety and soundness of Indian marketplaces by			
+developing settlement solutions that increase efficiency, minimize risk and reduce costs.			
+Subscribe to NSDL monthly newsletter for investors – The Financial Kaleidoscope on https://nsdl.co.in/e-newsletter.php			
+NSDL Consolidated Account Statement (CAS)			
+Pursuant to the Interim Budget announcement in 2014 to create one record for all financial assets of every individual, SEBI had extensive deliberations with the			
+Depositories, AMFI and RTAs of Mutual Funds (MF-RTAs) to implement the aforesaid concept with respect to financial assets in respect of securities market. As a first step			
+in this direction, it has been decided to enable a single consolidated view of all the investments of an investor in securities held in demat form with the Depositories as well			
+as in Statement of Account (SOA) form with Mutual Funds (MF).			
+NSDL CAS is a single account statement consisting of transactions and holdings in investor’s demat account(s) held with NSDL and CDSL as well as in units of Mutual			
+Funds held in Statement of Account (SOA) form. The statement also includes insurance policies held in electronic form with NSDL National Insurance Repository.The			
+statement enables investors to have a consolidated view of his/her financial assets and provide an insight of his/her portfolio across various asset classes. NSDL CAS			
+provides investor an enriched experience of managing his/her portfolio effectively and benefit him/her in many other ways viz. better decision making, simplified monitoring,			
+rich analysis of portfolio etc.			
+For more information about NSDL or NSDL CAS, please visit our website www.nsdl.co.in  or https://nsdlcas.nsdl.com			
+---- End of Table -------- End of Table ----
